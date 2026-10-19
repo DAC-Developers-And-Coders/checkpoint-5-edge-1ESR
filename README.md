@@ -1,4 +1,4 @@
-# 🍷 O Caso da Vinheria Agnello — Sistema de Monitoramento Ambiental IoT
+# 🍷 O Caso da Vinheria Agnello: Sistema de Monitoramento Ambiental IoT
 
 Projeto de Edge Computing para monitoramento das condições ambientais de uma adega, desenvolvido com ESP32, sensores de temperatura, umidade e luminosidade, comunicação MQTT e integração com a plataforma FIWARE.
 
